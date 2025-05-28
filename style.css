@@ -1,0 +1,233 @@
+.ab{
+    width: 50%;
+    padding: 2% 2%;    
+}
+
+.abt-written{
+    width: 80%;
+    padding: 50px;
+    font-size: 150%;
+}
+
+.abtsize{
+    padding: 100px 500px;
+    
+}
+
+header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    background-color:black;
+}
+
+.navbar-brand{
+    padding-left: 12%;
+}
+
+.navbar{
+    padding: 0 0 1rem;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    color:darkgray;
+}
+
+.nav-item{
+    padding: 18px 18px 18px ;
+    
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "montserrat-light";
+    text-align: left;
+    color: darkgray;
+
+}
+
+.navbar-nav{
+padding-right: 15%;
+}
+
+
+.de{
+   
+    padding: 7% 15%;
+    background-color:aquamarine;
+    z-index: 2;
+    position: relative;
+}
+
+.ef{
+    width: 20%;
+
+}
+
+.fg{
+    width: 20%;
+    position: relative;
+    left: 350px;
+}
+
+.gh{
+    width: 15%;
+    position: relative;
+    left: 510px;
+}
+
+.hi{
+    width: 15%;
+    position: relative;
+    left: 740px; 
+}
+
+.hero-section-heading-hero-section-sub-heading{
+    text-align: center;
+    font-size: 300%;
+    color:crimson;
+    
+}
+
+#features{
+    padding: 8%;
+    background-color: bisque;
+    text-align: center;
+
+}
+
+.feature-box{
+    text-align: center;
+    padding: 4%;
+    font-size: 100%;
+}
+
+h3 {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+
+}
+
+.icon{
+color: #ef8172;
+margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+    color: #ef8172;
+}
+
+#skill{
+    background-color: pink;
+    padding: 5%;
+    font-size: 150%;
+  
+
+}
+
+.hobbies{
+    padding: 2% 3%;
+   
+}
+
+#hobb{
+    background-color:bisque;
+    padding: 5%;
+    font-size: 120%;
+   
+}
+
+#front{
+    background-color:pink;
+    padding: 6%;
+}
+
+#edu{
+    background-color:pink;
+    padding: 5%;
+    font-size: 120%;
+    
+}
+
+h2{
+    padding: 1%;
+}
+
+footer{
+    text-align: center;
+    background-color:bisque;
+    padding: 20px 0px 45px;
+    color:crimson;
+
+}
+
+.abtsize{
+    background-color:bisque;
+}
+.container{
+    padding: 2%;
+    
+}
+a{
+    padding: 1%;
+    color:crimson;
+}
+.thanks{
+    padding: 5%;
+}
+.logo-img{
+    height: 100px;
+    background-color: pink;
+}
+.skill-text{
+    font-size: 20px;
+    padding: 0% 2% 0% 0%;
+
+}
+.logo-img{
+    height: 50px;
+}
+.skill-items{
+    padding: 2%;
+}
+.skill-item{
+    width: 150px;
+}
+#projects{
+    background-color: pink;
+    padding: 5%;
+    font-size: 120%;
+}
+.pro{
+    width: 250px;
+    padding: 30px;
+}
+
+#feedback {
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-form {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .contact-field[type="text"], 
+  .contact-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+ #feedback{
+    background-color: bisque;
+ }
